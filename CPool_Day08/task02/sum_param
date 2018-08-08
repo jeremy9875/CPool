@@ -1,0 +1,5 @@
+#!/bin/bash
+
+grep -r "a*"
+
+exit 0

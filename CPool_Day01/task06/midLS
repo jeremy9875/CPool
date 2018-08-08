@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd
+ls -LR -p -m
+
+exit 0
